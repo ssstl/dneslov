@@ -48,7 +48,7 @@ gem 'validate_url'
 gem 'npm-pipeline-rails', '>= 1.8.1'
 
 ## pagination
-gem 'kaminari', '>= 1.1.1'
+gem 'kaminari', '>= 1.1.1-x64-mingw32'
 
 ## decoration/serialization
 gem 'active_model_serializers', '>= 0.10.10'
